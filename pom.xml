@@ -22,5 +22,6 @@
   	<module>bitacora-commons</module>
   	<module>bitacora-model</module>
   	<module>bitacora-bussines</module>
+  	<module>bitacora-test</module>
   </modules>
 </project>
